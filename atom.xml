@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mywjch.github.io</id>
-    <title>寻寻觅觅</title>
-    <updated>2019-11-02T05:54:21.887Z</updated>
+    <title>学习笔记</title>
+    <updated>2019-11-02T05:55:30.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mywjch.github.io"/>
     <link rel="self" href="https://mywjch.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://mywjch.github.io/images/avatar.png</logo>
     <icon>https://mywjch.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 寻寻觅觅</rights>
+    <rights>All rights reserved 2019, 学习笔记</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://mywjch.github.io/post/hello-gridea</id>
